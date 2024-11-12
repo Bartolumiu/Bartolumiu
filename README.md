@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bartolumiu" alt="bartolumiu" /></a> </p>
 
-- 🔭 I’m currently working on [pkStaffManagement](https://github.com/Bartolumiu/pkStaffManagement)
+- 🔭 I’m currently working on [dexchan](https://github.com/Bartolumiu/dexchan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
