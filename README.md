@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on multiple projects, of which some of them are:
   - [Dex-chan](https://github.com/Bartolumiu/dexchan) - A Discord bot that allows you to lookup information about titles from sources like MangaDex, NamiComi, and soon many more.
-  - [MangaBaka](https://mangabaka.dev) - A metadata aggregator for manga and light novels, which allows you to search for titles across multiple sources.
+  - [MangaBaka](https://mangabaka.org) - A metadata aggregator for manga and light novels, which allows you to search for titles across multiple sources.
   - [WorldFall](https://github.com/Bartolumiu/WorldFall) - A Minecraft plugin where your world is slowly falling apart, and you have to survive as long as possible.
     - Available for download on [Modrinth](https://modrinth.com/plugin/WorldFall) and [GitHub](h1ttps://github.com/Bartolumiu/WorldFall/releases).
   - ... and many more!
